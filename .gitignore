@@ -43,7 +43,7 @@ xcuserdata/
 !.vscode/launch.json
 !.vscode/extensions.json
 
-.angular/*
+/.angular
 
 # Maven
 /target
